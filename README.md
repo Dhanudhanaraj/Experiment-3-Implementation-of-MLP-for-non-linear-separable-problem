@@ -160,4 +160,4 @@ predict(w1,w2,test)
 
 ## RESULT
 
-Thus the Implementation-of-MLP-for-non-linear-separable-problem using X-OR Gate run successfully.
+Thus the Implementation-of-MLP-for-non-linear-separable-problem using X-OR Gate run successfully by using python.
