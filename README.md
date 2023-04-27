@@ -60,7 +60,7 @@ Repeat the  iteration  until the losses become constant and minimum
 	     
               (v)   Append the losses in a list
 	     
-Step 5 : 
+### Step 5 : 
 
 Test for the XOR patterns.
 
