@@ -56,9 +56,9 @@ Repeat the  iteration  until the losses become constant and minimum
 	      
 	      (iii) Compute the change in weight ‘dw’ by using backward propagation algorithm.
 	      
-             (iv) Modify the weight as per delta rule.
+              (iv) Modify the weight as per delta rule.
 	     
-             (v)   Append the losses in a list
+              (v)   Append the losses in a list
 	     
 Step 5 : 
 
